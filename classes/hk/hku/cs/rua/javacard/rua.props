@@ -1,0 +1,12 @@
+#package specification
+#Tue Jan 05 00:36:58 CST 2010
+masktools-version=1.1
+hk.hku.cs.rua-aid=2859218000
+hk.hku.cs.rua.RSAApplet-aid=285921800006
+hk.hku.cs.rua-minor=0
+jcop-packages=hk.hku.cs.rua
+hk.hku.cs.rua-major=1
+hk.hku.cs.rua-base=internal
+hk.hku.cs.rua.AESApplet-aid=285921800004
+hk.hku.cs.rua.RSASign-aid=285921800099
+hk.hku.cs.rua-clazzes=hk.hku.cs.rua.AESApplet hk.hku.cs.rua.RSAApplet hk.hku.cs.rua.RSASign
