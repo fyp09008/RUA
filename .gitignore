@@ -1,3 +1,4 @@
 #This file allowed git to ignore certain file to be versioned.
 *.class
 Echo.java
+classes/
